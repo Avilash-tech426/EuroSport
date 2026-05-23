@@ -1,0 +1,6 @@
+{
+  "name": "EuroSports",
+  "description": "La Liga and European Top 5 Leagues Live Scores, Match Schedules, Player Statistics, and Standings with real-time push alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
